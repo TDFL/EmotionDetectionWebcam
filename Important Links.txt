@@ -1,0 +1,3 @@
+Miniconda: https://conda.io/miniconda.html
+
+Train your model: https://medium.com/themlblog/how-to-do-facial-emotion-recognition-using-a-cnn-b7bbae79cd8f
